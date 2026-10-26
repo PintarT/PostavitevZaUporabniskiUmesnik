@@ -38,8 +38,7 @@ Aplikacija vsebuje tri gumbe in prikaz števca:
 Gumb Zero je dodan tudi v postavitvi za ležečo orientacijo (`layout-land`) in v postavitvi za večje zaslone (`layout-xlarge`), tako da je uporabniški vmesnik prilagojen različnim napravam.
 
 ### Avtor
-Ime in priimek: *Vpiši svoje ime in priimek*
+Tristan Pintar
 
-### Predmet
-Razvoj mobilnih aplikacij
+
 <img width="811" height="449" alt="image" src="https://github.com/user-attachments/assets/34727a0b-06de-4b15-9711-aea971d62787" />

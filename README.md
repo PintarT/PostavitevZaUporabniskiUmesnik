@@ -42,3 +42,4 @@ Ime in priimek: *Vpiši svoje ime in priimek*
 
 ### Predmet
 Razvoj mobilnih aplikacij
+<img width="811" height="449" alt="image" src="https://github.com/user-attachments/assets/34727a0b-06de-4b15-9711-aea971d62787" />
